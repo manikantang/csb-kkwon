@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://manikantang.github.io/csb-kkwon/static/js/main.498d8af3.chunk.js",
+    "main.js.map": "https://manikantang.github.io/csb-kkwon/static/js/main.498d8af3.chunk.js.map",
+    "runtime-main.js": "https://manikantang.github.io/csb-kkwon/static/js/runtime-main.2cab3f7b.js",
+    "runtime-main.js.map": "https://manikantang.github.io/csb-kkwon/static/js/runtime-main.2cab3f7b.js.map",
+    "static/js/2.804487b3.chunk.js": "https://manikantang.github.io/csb-kkwon/static/js/2.804487b3.chunk.js",
+    "static/js/2.804487b3.chunk.js.map": "https://manikantang.github.io/csb-kkwon/static/js/2.804487b3.chunk.js.map",
+    "index.html": "https://manikantang.github.io/csb-kkwon/index.html",
+    "static/js/2.804487b3.chunk.js.LICENSE.txt": "https://manikantang.github.io/csb-kkwon/static/js/2.804487b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cab3f7b.js",
+    "static/js/2.804487b3.chunk.js",
+    "static/js/main.498d8af3.chunk.js"
+  ]
+}
